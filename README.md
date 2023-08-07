@@ -1,0 +1,2 @@
+# three-days-data-and-app-development-workshop-by-coders-ready
+Recently I attended a 3 days workshop " Hands-On Applicative Data Science Workshop by Coders Ready" on Coding with python at . The workshop covered the length and breadth of python right from the basics of python to the advance . I got benefit a lot by this workshop, not just  coding knowledge level but also understood the logic of coding
